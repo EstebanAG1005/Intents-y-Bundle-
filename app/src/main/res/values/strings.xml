@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hoy</string>
+    <string name="button">Button</string>
+    <string name="calculadora_intents_bundle">Calculadora (Intents-bundle)</string>
+</resources>
