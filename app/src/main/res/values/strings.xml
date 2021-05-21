@@ -2,4 +2,7 @@
     <string name="app_name">Hoy</string>
     <string name="button">Button</string>
     <string name="calculadora_intents_bundle">Calculadora (Intents-bundle)</string>
+    <string name="valor_a">Valor A</string>
+    <string name="valor_b">Valor B</string>
+    <string name="regresar">Regresar</string>
 </resources>

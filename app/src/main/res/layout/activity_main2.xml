@@ -13,19 +13,19 @@
         android:id="@+id/valorA"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Valor A" />
+        android:hint="@string/valor_a" />
 
     <EditText
         android:id="@+id/valorB"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Valor B" />
+        android:hint="@string/valor_b" />
 
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Regresar"
+        android:text="@string/regresar"
         android:id="@+id/btnRegresar"/>
 
 </LinearLayout>
